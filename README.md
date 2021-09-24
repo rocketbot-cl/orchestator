@@ -42,6 +42,8 @@ Process| Select the process in de project
 
 ## Versions:
 
+v 1.1 - 24 / 09 / 2021
+- fix libraries 
 v 1.0 - 07 / 09 / 2021
 
 ## License
